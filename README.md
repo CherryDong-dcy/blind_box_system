@@ -11,9 +11,7 @@
 
 ## 技术栈
 
-- Django 4.2
-- Bootstrap 5
-- SQLite
+- Django 5
 
 ## 安装和运行
 
